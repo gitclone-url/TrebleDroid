@@ -3,7 +3,7 @@
 * IRC: irc://irc.freenode.net/#phh-treble
 * WebIRC: http://webchat.freenode.net/?channels=%23phh-treble&uio=d4
 * Matrix: [#phh-treble:matrix.org](https://matrix.to/#/#phh-treble:matrix.org)
-* Telegram https://t.me/phhtreble
+* Telegram https://t.me/phhtreble && https://t.me/phhtreblebuilders
 * xda-developers threads: https://forum.xda-developers.com/search.php?do=finduser&u=1915408&starteronly=1
 
 # How to build
@@ -55,3 +55,5 @@ clone this repository, then:
   by this change
 * `[userfriendly]` This commit is NOT used for hardware support, but
   to make the rom more user friendly
+
+•Credits (Without This people maybe we couldn't make it)
